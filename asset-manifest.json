@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc27cc41.css",
+    "main.js": "/static/js/main.9c1e04b3.js",
+    "static/media/devon-divine-Hzp-1ua8DVE-unsplash.jpg": "/static/media/devon-divine-Hzp-1ua8DVE-unsplash.0188f71e05f05a71ed47.jpg",
+    "static/media/serafin-reyna-CqYcY3xJHz0-unsplash.jpg": "/static/media/serafin-reyna-CqYcY3xJHz0-unsplash.217ac74983633534d190.jpg",
+    "static/media/giammarco-boscaro-zeH-ljawHtg-unsplash.jpg": "/static/media/giammarco-boscaro-zeH-ljawHtg-unsplash.70ec97a63ad86e40f040.jpg",
+    "static/media/jez-timms-8muUTAmcWU4-unsplash.jpg": "/static/media/jez-timms-8muUTAmcWU4-unsplash.20b4f95e4dec1bbc3362.jpg",
+    "static/media/eberhard-grossgasteiger-NvesrDbsrL4-unsplash.jpg": "/static/media/eberhard-grossgasteiger-NvesrDbsrL4-unsplash.a6b035a20125cfdb83c3.jpg",
+    "index.html": "/index.html",
+    "main.bc27cc41.css.map": "/static/css/main.bc27cc41.css.map",
+    "main.9c1e04b3.js.map": "/static/js/main.9c1e04b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc27cc41.css",
+    "static/js/main.9c1e04b3.js"
+  ]
+}
